@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TweetFeed</string>
+    <color name="Twitter_blue">#c0deed</color>
+</resources>
